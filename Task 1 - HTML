@@ -15,7 +15,6 @@
 <main id="">
   <img src="https://i.imgur.com/bDnPcxV.gif" width="400" height="300" alt="Brent Rambo er enig">
   <p> Dette er min allerførste side kodet ved hjælp af <a href="https://atom.io/" target="_blank" >Atom.io</a>  </p>
-  <p>(Den er lavet som en del af første lektion i kodning på UCL.)</p>
 </main>
 
 <footer>
